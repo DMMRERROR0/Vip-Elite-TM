@@ -1,4 +1,4 @@
-# subscription-userinfo: upload=0; download=0; total=999999999999; expire=1758844800
+# subscription-userinfo: upload=0; download=0; total=999999999999999999; expire=1758844800000
 vless://ec32f525-47c3-4fa4-abe0-5269edf396d5@1757152758.tencentapp.cn:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=1757152786.speed.asbppka.china.nicchina.pp.ua&fp=chrome&type=ws&sni=1757152786.speed.asbppka.china.nicchina.pp.ua#%F0%9F%87%BA%F0%9F%87%B2
 vless://ec32f525-47c3-4fa4-abe0-5269edf396d5@1757152758.tencentapp.cn:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=1757152786.speed.usacapoha.china.nicchina.pp.ua&fp=chrome&type=ws&sni=1757152786.speed.usacapoha.china.nicchina.pp.ua#%F0%9F%87%A8%F0%9F%87%A6
 vless://ec32f525-47c3-4fa4-abe0-5269edf396d5@1757152758.tencentapp.cn:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=1757152786.speed.usacapohb.china.nicchina.pp.ua&fp=chrome&type=ws&sni=1757152786.speed.usacapohb.china.nicchina.pp.ua#%F0%9F%87%B2%F0%9F%87%BD
